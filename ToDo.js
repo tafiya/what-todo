@@ -130,15 +130,15 @@ const styles = StyleSheet.create({
     },
     text: {
         fontWeight: "600",
-        fontSize: 20,
+        fontSize: 15,
         marginVertical: 20
     },
     circle :{
-        width: 30,
-        height: 30,
-        borderRadius: 15,
+        width: 20,
+        height: 20,
+        borderRadius: 10,
         marginRight: 15,
-        borderWidth: 5
+        borderWidth: 3
     },
     completedText : {
         color: "#bbb",

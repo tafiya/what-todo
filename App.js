@@ -36,6 +36,7 @@ export default class App extends React.Component {
       returnKeyType="done"
       autoCorrect={false}
       onSubmitEditing={this._addToDo}
+      underlineColorAndroid={"transparent"}
       />
       <ScrollView contentContainerStyle={styles.toDos}>
         {Object.values(toDos).reverse().map(toDo => ( 
@@ -181,10 +182,10 @@ const styles = StyleSheet.create({
   },
   title: {
     color:"white",
-    fontSize: 30,
-    marginTop: 50,
+    fontSize: 26,
+    marginTop: 40,
     fontWeight: "300",
-    marginBottom : 20
+    marginBottom : 10
   },
   card: {
     backgroundColor: "white",
@@ -208,10 +209,10 @@ const styles = StyleSheet.create({
     )
   },
   input:{
-    padding: 20,
+    padding: 15,
     borderBottomColor:"#bbb",
     borderBottomWidth: 2,
-    fontSize:25
+    fontSize:22
   },
   toDos: {
     alignItems: "center"
