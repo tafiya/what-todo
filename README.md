@@ -1,5 +1,7 @@
 # What To Do
+React를 활용한 To do list 프로젝트입니다.
 
+😇
 <img width="174" alt="todo" src="https://user-images.githubusercontent.com/53345714/82830552-0536b600-9ef1-11ea-83ad-5d8003e527d7.png">
 
 리액트를 활용한 투두리스트 입니다.
