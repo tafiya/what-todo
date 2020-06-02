@@ -4,8 +4,6 @@ React를 활용한 To do list 프로젝트입니다.
 🔽QR코드로 expo앱에서 확인하기<br>
 <img width="174" alt="todo" src="https://user-images.githubusercontent.com/53345714/82830552-0536b600-9ef1-11ea-83ad-5d8003e527d7.png">
 
-🔽웹에서 확인하기<br>
-https://expo.io/@saywer/today-weather
 <pre>
 • 주요 기능
   - 할 일 저장
